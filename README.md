@@ -2,6 +2,10 @@
 
 ## Introduction
 
+```mermaid
+info
+```
+
 A starting point for Neovim that is:
 
 * Small
